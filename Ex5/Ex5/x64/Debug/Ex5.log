@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Luninha\Desktop\Exercicios Target\Ex5\Ex5\main.cpp(10,16): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+  Ex5.vcxproj -> C:\Users\Luninha\Desktop\Exercicios Target\Ex5\x64\Debug\Ex5.exe
